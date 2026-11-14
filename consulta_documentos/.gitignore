@@ -1,0 +1,14 @@
+# CDK
+cdk.out/
+.cdk-env
+cdk.context.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# VS Code (versionamos solo settings.json con la config del workspace)
+.vscode/*
+!.vscode/settings.json

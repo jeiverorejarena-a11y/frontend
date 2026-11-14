@@ -1,0 +1,9 @@
+# Application-level configuration — Frontend consulta_documentos (Repositorio Digital UNIPAZ)
+
+app_settings:
+  account_id: "041391475423"
+  region: "us-east-2"
+
+  tags:
+    project: "Unipaz"
+    component: "web-consulta"
